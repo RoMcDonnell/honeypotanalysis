@@ -1,5 +1,4 @@
-
-# <center>HoneypotAnalysis</center>
+# HoneyPotAnalysis
 
 ### Description
 
@@ -17,10 +16,10 @@ The technologies I used were:<br>
 3. Shell Terminal - I used this to create 4 short scripts which would pull data from the honeypot log files<br>
 <br>
 Challenges face include:<br>
-1. Installing the Linux Mint Server
-2. Getting a java script to call a shell script into Eclipes
-3. Creating the JFrame
-4. Getting everything up onto GitHub
+1. Installing the Linux Mint Server<br>
+2. Getting a java script to call a shell script into Eclipes<br>
+3. Creating the JFrame<br>
+4. Getting everything up onto GitHub<br>
 </p>
 
 ### Installation Guide
