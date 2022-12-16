@@ -22,7 +22,6 @@ Challenges face include:<br>
 3. Creating the JFrame
 4. Getting everything up onto GitHub
 </p>
-<br>
 
 ### Installation Guide
 
@@ -37,6 +36,16 @@ Challenges face include:<br>
 9. <br>
 10. <br>
 
+### How to use this project
 
+### Credits
+
+<p>
+I would like to thank the Team at NCI, especially my lecturer Mr. David Collins.
+</p>
+
+### License
+
+GPL License
 
 
